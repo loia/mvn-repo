@@ -1,4 +1,4 @@
 mvn-repo
 ========
 
-Maven Repository
+Internal Maven Repository
